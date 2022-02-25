@@ -4,8 +4,7 @@
 
 以及在星期三预告
 
-![(WH{AHIWTIE {579VO(F VQ](https://user-images.githubusercontent.com/93362741/155682949-e0b5d378-3861-450a-a281-ce378115e41f.png)
-
+![4UP)ZR)$_~ 8 { }ILHF2J9](https://user-images.githubusercontent.com/93362741/155684481-39875deb-a89e-4cbd-9249-042900172806.png)
 
 
 下载解压后打开data.json
