@@ -1,4 +1,6 @@
 # KFC-creazy-Thursday
+
+项目已寄，请勿再尝试部署
 基于mirai-api-http的推送机器人
 会在每个星期四提醒你的沙雕群友
 
