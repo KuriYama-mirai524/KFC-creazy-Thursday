@@ -15,7 +15,7 @@
 
 
 
-linux用户直接运行py文件即可
+linux用户直接运行py文件
 如果报错，提示缺什么库就用pip install装就行
 
 
