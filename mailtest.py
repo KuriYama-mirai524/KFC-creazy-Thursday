@@ -34,12 +34,12 @@ new_data = pd.DataFrame(columns=['邮件号', '内件号', '寄件人姓名', '�
 # 循环查询邮件号
 while True:
     # 输入待查询的邮件号或输入q退出
-    mail_number = input("请输入邮件号(输入q退出)：")
+    mail_number = input("请输入邮件号(输入q退出)")
     if mail_number.lower() == 'q':
         break
 
     # 检查是否已存在相同的邮件号
-    if mail_number in new_data['邮件号'].values:
+    if mail_number in str(new_data['邮件号'].values):
         print(f"邮件号 {mail_number} 已存在，忽略该次输入")
         continue
 
